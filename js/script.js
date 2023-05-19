@@ -16,7 +16,7 @@ regBtn.addEventListener(`click`, () => {
         localStorage.setItem(`email`, emailInput.value)
         alert(`Теперь залогиньтесь!`)
         setTimeout(function(){
-            window.open(`indexLog.html`)
+            window.open(`../indexLog.html`)
         },1000)
     }   
 })
