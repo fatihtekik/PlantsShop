@@ -11,7 +11,7 @@ function addCards(img,text,id,div){
 <div class="bottom--of--card">
     <p class="costsFl">5$</p>   
     <div style="display: flex;" class="div">
-        <img class="img--telega" src="/img/telege--main.png" alt="">
+        <img class="img--telega" src="../img/telege--main.png" alt="">
         <h4 class="addCard" id="${id}">Add to card</h4>
     </div>
 </div>
@@ -25,7 +25,7 @@ function addCardsTop(img,text,id,div){
 <div class="bottom--of--card">
     <p class="costsFl">5$</p>   
     <div style="display: flex;" class="div">
-        <img class="img--telega" src="/img/telege--main.png" alt="">
+        <img class="img--telega" src="../img/telege--main.png" alt="">
         <h4 class="addCard" id="${id}">Add to card</h4>
     </div>
 </div>
@@ -39,7 +39,7 @@ function addCardsForMin(img,text,id,div){
 <div class="bottom--of--card">
     <p class="costsFl">5$</p>   
     <div style="display: flex;" class="div">
-        <img class="img--telega" src="/img/telege--main.png" alt="">
+        <img class="img--telega" src="../img/telege--main.png" alt="">
         <h4 class="addCard" id="${id}">Add to card</h4>
     </div>
 </div>
